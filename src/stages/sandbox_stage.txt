@@ -1,0 +1,28 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX          ####          XX
+XX          ####          XX
+XX            ####        XX
+XX            ####        XX
+XX  $$  $$      ####      XX
+XX  $$  $$      ####      XX
+XX  ##  ##      ++++      XX
+XX  ##  ##      ++++      XX
+XX  #    #    ######$$    XX
+XX  #    #    ######$$    XX
+XX  #    #          ##    XX
+XX  #    #          ##    XX
+XX  ##  ##    1     ##    XX
+XX  ##  ##          ##    XX
+XX  ##  ##          ##    XX
+XX  ##  ##          ##    XX
+XX  $$  $$          ##    XX
+XX  $$  $$          ##    XX
+XX                        XX
+XX                        XX
+XX                    ++++XX
+XX                    ++++XX
+XX                    ++++XX
+XX            ####    ++++XX
+XX            #  #    ++++XX
+XX    P       #F #    ++++XX
